@@ -1,0 +1,74 @@
+[
+  {
+    "test_id": "T01",
+    "type": "Organ-Specific (In Partition)",
+    "query": "What is the recommended concurrent chemoradiotherapy for cervical cancer?",
+    "expected_cancer": "Cervical Cancer",
+    "detected_cancer": "Cervical Cancer",
+    "applied_filter": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "fallback_used": false,
+    "fallback_matched": true,
+    "total_retrieved": 3,
+    "latency_ms": 417.8,
+    "top_citation": "04_SGO_Clinical_Practice_Statement_Advanced_Cervical_Carcinoma.pdf (Page 1)",
+    "top_similarity": 0.7779
+  },
+  {
+    "test_id": "T02",
+    "type": "Diagnostic & Screening",
+    "query": "What are the guidelines for HPV cotesting and Pap smear screening?",
+    "expected_cancer": null,
+    "detected_cancer": null,
+    "applied_filter": {},
+    "fallback_used": false,
+    "fallback_matched": true,
+    "total_retrieved": 3,
+    "latency_ms": 246.75,
+    "top_citation": "01_ACOG_Practice_Bulletin_Cervical_Cancer_Screening_Management.pdf (Page 1)",
+    "top_similarity": 0.6069
+  },
+  {
+    "test_id": "T03",
+    "type": "General Oncology Concept",
+    "query": "What does neoadjuvant chemotherapy refer to in oncology?",
+    "expected_cancer": null,
+    "detected_cancer": null,
+    "applied_filter": {},
+    "fallback_used": false,
+    "fallback_matched": true,
+    "total_retrieved": 3,
+    "latency_ms": 213.39,
+    "top_citation": "25_FIGO_2021_Vulvar_Cancer_Staging_Classification.pdf (Page 2)",
+    "top_similarity": 0.5761
+  },
+  {
+    "test_id": "T04",
+    "type": "Organ-Specific (Trigger Fallback)",
+    "query": "What are the surgical options and adjuvant chemotherapy for breast cancer?",
+    "expected_cancer": "Breast Cancer",
+    "detected_cancer": "Breast Cancer",
+    "applied_filter": {},
+    "fallback_used": true,
+    "fallback_matched": true,
+    "total_retrieved": 3,
+    "latency_ms": 495.07,
+    "top_citation": "11_ACOG_Committee_Opinion_Management_Adnexal_Masses.pdf (Page 2)",
+    "top_similarity": 0.5587
+  },
+  {
+    "test_id": "T05",
+    "type": "Treatment Modality & Toxicity",
+    "query": "What are the common side effects and toxicities of cisplatin during radiation therapy?",
+    "expected_cancer": null,
+    "detected_cancer": null,
+    "applied_filter": {},
+    "fallback_used": false,
+    "fallback_matched": true,
+    "total_retrieved": 3,
+    "latency_ms": 235.29,
+    "top_citation": "02_NCCN_Cervical_Cancer_Clinical_Practice_Algorithms.pdf (Page 2)",
+    "top_similarity": 0.4511
+  }
+]

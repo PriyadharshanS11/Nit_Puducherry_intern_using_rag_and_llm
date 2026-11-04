@@ -1,0 +1,3641 @@
+[
+  {
+    "id": "Q001",
+    "original_q": "What are the three main anatomical divisions of the larynx?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Laryngeal Cancer",
+    "normalized": "Three main anatomical divisions of the larynx",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Larynx"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Laryngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q002",
+    "original_q": "What are the major goals when treating carcinoma of the larynx?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Laryngeal Cancer",
+    "normalized": "Major goals when treating carcinoma of the larynx",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Larynx"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Laryngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q003",
+    "original_q": "Which threshold of distant recurrence risk is often used to recommend systemic adjuvant chemotherapy in early stage breast cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Distant recurrence risk is often used to recommend systemic adjuvant chemotherapy in early stage breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Early Stage"
+      ],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q004",
+    "original_q": "What do the 'ABCDEs' of early malignant melanoma diagnosis stand for?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Malignant Melanoma",
+    "normalized": "'ABCDEs' of early malignant melanoma diagnosis stand for",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Malignant Melanoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q005",
+    "original_q": "What is Xeroderma pigmentosum?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Skin Cancer (XP-Associated)",
+    "normalized": "Xeroderma pigmentosum",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Skin Cancer (XP-Associated)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q006",
+    "original_q": "Which imaging modalities are used to evaluate the extent of local involvement and regional nodal basins for high-risk squamous cell carcinoma (SCC)?",
+    "gold_category": "staging",
+    "pred_category": "staging",
+    "cancer_type": "Squamous Cell Carcinoma",
+    "normalized": "Modalities are used to evaluate the extent of local involvement and regional nodal basins for high-risk squamous cell carcinoma (SCC)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Squamous Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q007",
+    "original_q": "Activating point mutations in which gene are seen in 85% to 95% of patients with gastrointestinal stromal tumors (GISTs)?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Gastrointestinal Stromal Tumor (GIST)",
+    "normalized": "Activating point mutations in which gene are seen in 85% to 95% of patients with gastrointestinal stromal tumors (GISTs)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Gastrointestinal Stromal Tumor (GIST)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q008",
+    "original_q": "What is the most common presenting symptom for head and neck cancers?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Most common presenting symptom for head and neck cancers",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q009",
+    "original_q": "What pathological features at the primary tumor site are associated with worse prognosis in head and neck cancers?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "What pathological features at the primary tumor site are associated with worse prognosis in head and neck cancers",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q010",
+    "original_q": "What is the mainstay of treatment for early-stage head and neck cancer?",
+    "gold_category": "treatment",
+    "pred_category": "staging",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Mainstay of treatment for early-stage head and neck cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q011",
+    "original_q": "Why is it necessary to rule out a parotid malignancy in a patient with sudden facial nerve paralysis?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Salivary Gland Cancer",
+    "normalized": "It necessary to rule out a parotid malignancy in a patient with sudden facial nerve paralysis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Parotid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Salivary Gland Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q012",
+    "original_q": "What neurological symptoms comprise Pancoast syndrome in lung cancer patients?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Lung Cancer (Pancoast Tumor)",
+    "normalized": "What neurological symptoms comprise Pancoast syndrome in lung cancer patients",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lung Cancer (Pancoast Tumor)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q013",
+    "original_q": "How common are paraneoplastic syndromes in lung cancer patients?",
+    "gold_category": "epidemiology",
+    "pred_category": "diagnosis",
+    "cancer_type": "Lung Cancer",
+    "normalized": "Are paraneoplastic syndromes in lung cancer patients",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q014",
+    "original_q": "Which specific paraneoplastic symptom is strongly suggestive of a thymoma?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Thymoma & Thymic Carcinoma",
+    "normalized": "Paraneoplastic symptom is strongly suggestive of a thymoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Thymoma & Thymic Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q015",
+    "original_q": "What environmental and dietary risk factors are associated with esophageal squamous cell carcinoma?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Squamous Cell Carcinoma",
+    "normalized": "What environmental and dietary risk factors are associated with esophageal squamous cell carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Squamous Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q016",
+    "original_q": "What physical sign usually indicates friability of an esophageal tumor or invasion into major vessels?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Esophageal Cancer",
+    "normalized": "What physical sign usually indicates friability of an esophageal tumor or invasion into major vessels",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Esophageal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q017",
+    "original_q": "What is the recommended initial evaluation for patients suspected of having gastric adenocarcinoma?",
+    "gold_category": "staging",
+    "pred_category": "investigation",
+    "cancer_type": "Gastric (Stomach) Cancer",
+    "normalized": "Recommended initial evaluation for patients suspected of having gastric adenocarcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Gastric (Stomach) Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q018",
+    "original_q": "What defines the threshold for recommending palliative therapy in gastric cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Gastric (Stomach) Cancer",
+    "normalized": "What defines the threshold for recommending palliative therapy in gastric cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Gastric (Stomach) Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q019",
+    "original_q": "What tests are included in the clinical evaluation of carcinoma of the colon?",
+    "gold_category": "diagnosis",
+    "pred_category": "investigation",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "What tests are included in the clinical evaluation of carcinoma of the colon",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Colon"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q020",
+    "original_q": "What is the primary determinant of 5-year survival in colon cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "Primary determinant of 5-year survival in colon cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Colon"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q021",
+    "original_q": "Which congenital disease is associated with an increased risk of cholangiocarcinoma?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Cholangiocarcinoma (Bile Duct Cancer)",
+    "normalized": "Disease is associated with an increased risk of cholangiocarcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cholangiocarcinoma (Bile Duct Cancer)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q022",
+    "original_q": "Which genetic syndrome is strongly associated with clear cell renal cell carcinomas?",
+    "gold_category": "epidemiology",
+    "pred_category": "general",
+    "cancer_type": "Renal Cell Carcinoma",
+    "normalized": "Syndrome is strongly associated with clear cell renal cell carcinomas",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Renal Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q023",
+    "original_q": "What is the classic triad of symptoms for renal cell carcinoma, and how often does it occur?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Renal Cell Carcinoma",
+    "normalized": "Classic triad of symptoms for renal cell carcinoma, and how often does it occur",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Renal Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q024",
+    "original_q": "In what percentage of ovarian cancer cases is the CA-125 marker elevated?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "Ovarian cancer cases is the CA-125 marker elevated",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "CA-125"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q025",
+    "original_q": "What is the strongest independent predictor of prolonged survival in ovarian cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "Strongest independent predictor of prolonged survival in ovarian cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q026",
+    "original_q": "When is cervical cancer staging typically performed?",
+    "gold_category": "staging",
+    "pred_category": "general",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "Cervical cancer staging typically performed",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q027",
+    "original_q": "How quickly are the majority of recurrent cervical cancer cases diagnosed?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "Are the majority of recurrent cervical cancer cases diagnosed",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Recurrent"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q028",
+    "original_q": "What is the typical radiographic appearance of a spinal hemangioma?",
+    "gold_category": "diagnosis",
+    "pred_category": "investigation",
+    "cancer_type": "Spinal Cord / Spine Tumor",
+    "normalized": "Typical radiographic appearance of a spinal hemangioma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Spinal"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Spinal Cord / Spine Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q029",
+    "original_q": "What is the therapeutic goal when evaluating patients with Cancer of Unknown Primary (CUP)?",
+    "gold_category": "general",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Therapeutic goal when evaluating patients with Cancer of Unknown Primary (CUP)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q030",
+    "original_q": "What imaging modality is recommended for women with isolated axillary lymph node metastases and suspected occult breast carcinoma?",
+    "gold_category": "investigation",
+    "pred_category": "staging",
+    "cancer_type": "Breast Cancer",
+    "normalized": "What imaging modality is recommended for women with isolated axillary lymph node metastases and suspected occult breast carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Axillary",
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q031",
+    "original_q": "What marker aids in the diagnosis of hepatocellular cancer in patients presenting with liver-only metastatic disease?",
+    "gold_category": "biomarker",
+    "pred_category": "diagnosis",
+    "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)",
+    "normalized": "What marker aids in the diagnosis of hepatocellular cancer in patients presenting with liver-only metastatic disease",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Metastatic"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q032",
+    "original_q": "What does 'neoadjuvant treatment' refer to in oncology?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "'neoadjuvant treatment' refer to in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q033",
+    "original_q": "What proportion of patients with any stage of cancer experience significant pain?",
+    "gold_category": "side_effects",
+    "pred_category": "staging",
+    "cancer_type": null,
+    "normalized": "What proportion of patients with any stage of cancer experience significant pain",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q034",
+    "original_q": "How does early detection affect observed survival rates via lead-time bias?",
+    "gold_category": "epidemiology",
+    "pred_category": "prognosis",
+    "cancer_type": null,
+    "normalized": "Early detection affect observed survival rates via lead-time bias",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q035",
+    "original_q": "What enzyme helps cancer cells maintain immortality by replenishing chromosome ends?",
+    "gold_category": "mechanism",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "What enzyme helps cancer cells maintain immortality by replenishing chromosome ends",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q036",
+    "original_q": "When is chemotherapy generally postponed regarding patient status?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Chemotherapy generally postponed regarding patient status",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q037",
+    "original_q": "What does 'palliation' mean in the context of incurable cancer treatment?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "'palliation' mean in the context of incurable cancer treatment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q038",
+    "original_q": "What percentage of white plaques (leukoplakia) in the head and neck may be cancer in situ?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "What percentage of white plaques (leukoplakia) in the head and neck may be cancer in situ",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q039",
+    "original_q": "Which cranial nerve is usually the first to be affected by nasopharyngeal tumors spreading to the cavernous sinus?",
+    "gold_category": "diagnosis",
+    "pred_category": "general",
+    "cancer_type": "Nasopharyngeal Cancer",
+    "normalized": "Cranial nerve is usually the first to be affected by nasopharyngeal tumors spreading to the cavernous sinus",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Cavernous Sinus"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Nasopharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q040",
+    "original_q": "In lung cancer staging, what is the significance of a mediastinal lymph node measuring 1.5 cm on a CT scan?",
+    "gold_category": "staging",
+    "pred_category": "staging",
+    "cancer_type": "Lung Cancer",
+    "normalized": "In lung cancer staging, what is the significance of a mediastinal lymph node measuring 1.5 cm on a CT scan",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Mediastinal"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q041",
+    "original_q": "What percentage of patients with Small Cell Lung Cancer (SCLC) have neurologically asymptomatic brain metastases?",
+    "gold_category": "epidemiology",
+    "pred_category": "general",
+    "cancer_type": "Central Nervous System (Brain) Tumor",
+    "normalized": "What percentage of patients with Small Cell Lung Cancer (SCLC) have neurologically asymptomatic brain metastases",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Central Nervous System (Brain) Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q042",
+    "original_q": "What role does involuntary weight loss play as a prognostic factor in cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": null,
+    "normalized": "What role does involuntary weight loss play as a prognostic factor in cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q043",
+    "original_q": "What are the three grave prognostic signs for gastric cancer post-surgery?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Gastric (Stomach) Cancer",
+    "normalized": "Three grave prognostic signs for gastric cancer post-surgery",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Gastric (Stomach) Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q044",
+    "original_q": "What allelic loss in colorectal cancer indicates a significantly worse prognosis?",
+    "gold_category": "biomarker",
+    "pred_category": "prognosis",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "What allelic loss in colorectal cancer indicates a significantly worse prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q045",
+    "original_q": "What percentage of patients treated with mastectomy or RT for breast cancer have evidence of tumor at autopsy regardless of cause of death?",
+    "gold_category": "prognosis",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "What percentage of patients treated with mastectomy or RT for breast cancer have evidence of tumor at autopsy regardless of cause of death",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q046",
+    "original_q": "What tumor markers are useful for monitoring the response to therapy in advanced breast cancer?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Breast Cancer",
+    "normalized": "What tumor markers are useful for monitoring the response to therapy in advanced breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q047",
+    "original_q": "What is the typical presentation of testicular cancer?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Testicular Cancer",
+    "normalized": "Typical presentation of testicular cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Testicular Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q048",
+    "original_q": "In renal cell carcinoma, which histologic pattern is associated with a poor prognosis?",
+    "gold_category": "pathology",
+    "pred_category": "prognosis",
+    "cancer_type": "Renal Cell Carcinoma",
+    "normalized": "In renal cell carcinoma, which histologic pattern is associated with a poor prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Renal Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q049",
+    "original_q": "What is the risk of progression for Carcinoma In Situ (CIS) of the bladder if left untreated?",
+    "gold_category": "prognosis",
+    "pred_category": "pathology",
+    "cancer_type": "Bladder Cancer",
+    "normalized": "Risk of progression for Carcinoma In Situ (CIS) of the bladder if left untreated",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Bladder Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q050",
+    "original_q": "What does a high nuclear grade (Fuhrman's system) indicate in renal cell carcinoma?",
+    "gold_category": "pathology",
+    "pred_category": "pathology",
+    "cancer_type": "Renal Cell Carcinoma",
+    "normalized": "A high nuclear grade (Fuhrman's system) indicate in renal cell carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Renal Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q051",
+    "original_q": "How does prostate specific antigen (PSA) levels help in diagnosing prostate cancer?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Prostate Cancer",
+    "normalized": "Prostate specific antigen (PSA) levels help in diagnosing prostate cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "PSA"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Prostate Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q052",
+    "original_q": "What type of headaches are characteristically associated with fast-growing CNS tumors?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Central Nervous System (Brain) Tumor",
+    "normalized": "What type of headaches are characteristically associated with fast-growing CNS tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Central Nervous System (Brain) Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q053",
+    "original_q": "What symptom is typically associated with a tumor in the parietal lobe?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": null,
+    "normalized": "What symptom is typically associated with a tumor in the parietal lobe",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Parietal Lobe"
+      ]
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q054",
+    "original_q": "What proportion of palpable 'cold' thyroid nodules prove to be cancer?",
+    "gold_category": "diagnosis",
+    "pred_category": "general",
+    "cancer_type": "Thyroid Cancer",
+    "normalized": "What proportion of palpable 'cold' thyroid nodules prove to be cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Thyroid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Thyroid Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q055",
+    "original_q": "What triad of symptoms is highly suggestive of sellar (pituitary) metastases?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Pituitary Tumor",
+    "normalized": "What triad of symptoms is highly suggestive of sellar (pituitary) metastases",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Pituitary Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q056",
+    "original_q": "Which immunosuppressive drug is associated with cutaneous SCC and lymphoma?",
+    "gold_category": "epidemiology",
+    "pred_category": "treatment",
+    "cancer_type": "Lymphoma",
+    "normalized": "Immunosuppressive drug is associated with cutaneous SCC and lymphoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lymphoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q057",
+    "original_q": "What defines the Stewart-Treves syndrome?",
+    "gold_category": "epidemiology",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "What defines the Stewart-Treves syndrome",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q058",
+    "original_q": "What is the most important factor in predicting the behavior of a soft tissue sarcoma?",
+    "gold_category": "prognosis",
+    "pred_category": "general",
+    "cancer_type": "Sarcoma (Soft Tissue & Bone)",
+    "normalized": "Most important factor in predicting the behavior of a soft tissue sarcoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Sarcoma (Soft Tissue & Bone)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q059",
+    "original_q": "What indicates poor survival in neuroblastoma stages III and IV?",
+    "gold_category": "biomarker",
+    "pred_category": "staging",
+    "cancer_type": "Neuroblastoma",
+    "normalized": "What indicates poor survival in neuroblastoma stages III and IV",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Neuroblastoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q060",
+    "original_q": "What is the typical presentation of a Wilms tumor?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Wilms Tumor (Nephroblastoma)",
+    "normalized": "Typical presentation of a Wilms tumor",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Wilms Tumor (Nephroblastoma)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q061",
+    "original_q": "Which chemotherapy regimen is most commonly given for rhabdomyosarcoma?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Rhabdomyosarcoma",
+    "normalized": "Chemotherapy regimen is most commonly given for rhabdomyosarcoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Rhabdomyosarcoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q062",
+    "original_q": "What does a sudden appearance of multiple seborrheic keratoses (Leser-Trélat sign) typically indicate?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": null,
+    "normalized": "A sudden appearance of multiple seborrheic keratoses (Leser-Trélat sign) typically indicate",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q063",
+    "original_q": "What is the main objective of primary prevention in oncology?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Main objective of primary prevention in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q064",
+    "original_q": "How is Disease Free Survival (DFS) defined?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": null,
+    "normalized": "Disease Free Survival (DFS) defined",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q065",
+    "original_q": "When is curative chemotherapy used?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Curative chemotherapy used",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q066",
+    "original_q": "What is the goal of symptomatic treatment?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Goal of symptomatic treatment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q067",
+    "original_q": "Why is 'tailoring' or selective targeting used in modern chemotherapy?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "'tailoring' or selective targeting used in modern chemotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q068",
+    "original_q": "What are the common visual symptoms when a nasopharyngeal carcinoma ingrows into the orbit?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Nasopharyngeal Cancer",
+    "normalized": "Common visual symptoms when a nasopharyngeal carcinoma ingrows into the orbit",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Orbit"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Nasopharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q069",
+    "original_q": "Why is cetuximab used in head and neck cancer treatment?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Cetuximab used in head and neck cancer treatment",
+    "entities": {
+      "drugs": [
+        "Cetuximab"
+      ],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q070",
+    "original_q": "What determines the indication of adjuvant treatment after surgery in head and neck cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "What determines the indication of adjuvant treatment after surgery in head and neck cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q071",
+    "original_q": "Which type of thyroid cancer requires adjuvant radiotherapy?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Thyroid Cancer",
+    "normalized": "Thyroid cancer requires adjuvant radiotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Thyroid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Thyroid Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q072",
+    "original_q": "What is the significance of the BRCA1 and BRCA2 genes in breast cancer?",
+    "gold_category": "epidemiology",
+    "pred_category": "biomarker",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Significance of the BRCA1 and BRCA2 genes in breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "BRCA1",
+        "BRCA2"
+      ],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q073",
+    "original_q": "What paraneoplastic neurological symptoms can manifest in small cell lung cancer?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Lung Cancer",
+    "normalized": "What paraneoplastic neurological symptoms can manifest in small cell lung cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q074",
+    "original_q": "What is the main treatment method for locally advanced non-small cell lung cancer (NSCLC)?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Non-Small Cell Lung Cancer",
+    "normalized": "Main treatment method for locally advanced non-small cell lung cancer (NSCLC)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Locally Advanced"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Non-Small Cell Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q075",
+    "original_q": "What are the targeted therapy options for EGFR mutated NSCLC?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Non-Small Cell Lung Cancer",
+    "normalized": "Targeted therapy options for EGFR mutated NSCLC",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "EGFR"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Non-Small Cell Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q076",
+    "original_q": "What defines a Krukenberg tumor?",
+    "gold_category": "pathology",
+    "pred_category": "pathology",
+    "cancer_type": null,
+    "normalized": "What defines a Krukenberg tumor",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q077",
+    "original_q": "What is the FLOT regimen used for?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "FLOT regimen used for",
+    "entities": {
+      "drugs": [
+        "FLOT"
+      ],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q078",
+    "original_q": "What are common symptoms of right-sided colon tumors?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "Common symptoms of right-sided colon tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Colon"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q079",
+    "original_q": "What does a 5-year survival rate of ~40% indicate in colorectal cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "A 5-year survival rate of ~40% indicate in colorectal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q080",
+    "original_q": "What is the basic surgical treatment for testicular cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Testicular Cancer",
+    "normalized": "Basic surgical treatment for testicular cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Testicular Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q081",
+    "original_q": "What factors determine the prognosis of prostate cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Prostate Cancer",
+    "normalized": "What factors determine the prognosis of prostate cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Prostate Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q082",
+    "original_q": "Why is TNM classification not applicable to brain tumors?",
+    "gold_category": "staging",
+    "pred_category": "staging",
+    "cancer_type": "Central Nervous System (Brain) Tumor",
+    "normalized": "TNM classification not applicable to brain tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Central Nervous System (Brain) Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q083",
+    "original_q": "What is the treatment strategy for generalized malignant melanoma with a BRAF V600 mutation?",
+    "gold_category": "treatment",
+    "pred_category": "biomarker",
+    "cancer_type": "Malignant Melanoma",
+    "normalized": "Treatment strategy for generalized malignant melanoma with a BRAF V600 mutation",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "BRAF",
+        "Braf V600"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Malignant Melanoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q084",
+    "original_q": "What is the most frequently used tumor marker for epithelial ovarian tumors?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "Most frequently used tumor marker for epithelial ovarian tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q085",
+    "original_q": "What characterizes the 'watch and wait' strategy in advanced follicular lymphoma?",
+    "gold_category": "treatment",
+    "pred_category": "general",
+    "cancer_type": "Lymphoma",
+    "normalized": "What characterizes the 'watch and wait' strategy in advanced follicular lymphoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lymphoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q086",
+    "original_q": "What cytogenetic translocation is characteristic of Synovial Sarcoma?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Sarcoma (Soft Tissue & Bone)",
+    "normalized": "What cytogenetic translocation is characteristic of Synovial Sarcoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Sarcoma (Soft Tissue & Bone)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q087",
+    "original_q": "How does early detection of cancer influence the concept of lead-time bias?",
+    "gold_category": "epidemiology",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Early detection of cancer influence the concept of lead-time bias",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q088",
+    "original_q": "What tumor marker is useful in the diagnosis and monitoring of pancreatic cancer?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Pancreatic Cancer",
+    "normalized": "What tumor marker is useful in the diagnosis and monitoring of pancreatic cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Pancreatic Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q089",
+    "original_q": "Which environmental carcinogen exposure is linked to the development of angiosarcoma of the liver?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Angiosarcoma",
+    "normalized": "Environmental carcinogen exposure is linked to the development of angiosarcoma of the liver",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Angiosarcoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q090",
+    "original_q": "What are the common symptoms of spinal cord tumors?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Spinal Cord / Spine Tumor",
+    "normalized": "Common symptoms of spinal cord tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Spinal"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Spinal Cord / Spine Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q091",
+    "original_q": "What is the role of the p53 gene in cancer development?",
+    "gold_category": "mechanism",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "Role of the p53 gene in cancer development",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "P53"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q092",
+    "original_q": "How does alcohol act synergistically with tobacco in head and neck cancer?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Alcohol act synergistically with tobacco in head and neck cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q093",
+    "original_q": "What are the main roles of surgery in the management of cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Main roles of surgery in the management of cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q094",
+    "original_q": "What characterizes the presentation of carcinoid tumors of the appendix?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Appendiceal Cancer",
+    "normalized": "What characterizes the presentation of carcinoid tumors of the appendix",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Appendix"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Appendiceal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q095",
+    "original_q": "What is the main driver of global cervical cancer disparities in mortality?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "Main driver of global cervical cancer disparities in mortality",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q096",
+    "original_q": "What is 'liquid biopsy' in oncology?",
+    "gold_category": "investigation",
+    "pred_category": "investigation",
+    "cancer_type": null,
+    "normalized": "'liquid biopsy' in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q097",
+    "original_q": "Why is the use of systemic therapy often deferred in indolent asymptomatic cancers?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "The use of systemic therapy often deferred in indolent asymptomatic cancers",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q098",
+    "original_q": "Which genetic syndrome predisposes individuals to medullary thyroid cancer?",
+    "gold_category": "biomarker",
+    "pred_category": "general",
+    "cancer_type": "Thyroid Cancer",
+    "normalized": "Syndrome predisposes individuals to medullary thyroid cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Thyroid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Thyroid Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q099",
+    "original_q": "What is the typical clinical presentation of a rhabdomyosarcoma in children?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Rhabdomyosarcoma",
+    "normalized": "Typical clinical presentation of a rhabdomyosarcoma in children",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Rhabdomyosarcoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q100",
+    "original_q": "What is the significance of the Philadelphia chromosome?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "Significance of the Philadelphia chromosome",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "Philadelphia Chromosome"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q101",
+    "original_q": "What is the purpose of metronomic chemotherapy?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Purpose of metronomic chemotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q102",
+    "original_q": "What role does the Epstein-Barr virus (EBV) play in oncology?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": null,
+    "normalized": "What role does the Epstein-Barr virus (EBV) play in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q103",
+    "original_q": "What is length bias in cancer screening?",
+    "gold_category": "epidemiology",
+    "pred_category": "investigation",
+    "cancer_type": null,
+    "normalized": "Length bias in cancer screening",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q104",
+    "original_q": "Which biological marker is essential to evaluate in breast cancer for predicting response to targeted therapies like Trastuzumab?",
+    "gold_category": "biomarker",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Marker is essential to evaluate in breast cancer for predicting response to targeted therapies like Trastuzumab",
+    "entities": {
+      "drugs": [
+        "Trastuzumab"
+      ],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q105",
+    "original_q": "How does systemic inflammatory response, measured by CRP and albumin (Glasgow Prognostic Score), impact cancer prognosis?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": null,
+    "normalized": "Systemic inflammatory response, measured by CRP and albumin (Glasgow Prognostic Score), impact cancer prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q106",
+    "original_q": "What defines 'disease-free interval' (DFI) in cancer prognosis?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": null,
+    "normalized": "What defines 'disease-free interval' (DFI) in cancer prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q107",
+    "original_q": "What is the typical initial imaging method for a suspected pediatric neck mass?",
+    "gold_category": "investigation",
+    "pred_category": "investigation",
+    "cancer_type": null,
+    "normalized": "Typical initial imaging method for a suspected pediatric neck mass",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q108",
+    "original_q": "What causes the 'watery diarrhea-hypokalemia-achlorhydria' (WDHA) syndrome?",
+    "gold_category": "diagnosis",
+    "pred_category": "epidemiology",
+    "cancer_type": null,
+    "normalized": "What causes the 'watery diarrhea-hypokalemia-achlorhydria' (WDHA) syndrome",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q109",
+    "original_q": "What is the primary risk factor for developing mesothelioma?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Mesothelioma",
+    "normalized": "Primary risk factor for developing mesothelioma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Mesothelioma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q110",
+    "original_q": "What is an oncocytoma of the salivary gland?",
+    "gold_category": "pathology",
+    "pred_category": "pathology",
+    "cancer_type": "Salivary Gland Cancer",
+    "normalized": "An oncocytoma of the salivary gland",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Salivary Gland Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q111",
+    "original_q": "What is 'tumor budding' and its significance in squamous cell carcinoma?",
+    "gold_category": "prognosis",
+    "pred_category": "general",
+    "cancer_type": "Squamous Cell Carcinoma",
+    "normalized": "'tumor budding' and its significance in squamous cell carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Squamous Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q112",
+    "original_q": "How does human papillomavirus (HPV) status affect oropharyngeal cancer prognosis?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Oropharyngeal Cancer",
+    "normalized": "Human papillomavirus (HPV) status affect oropharyngeal cancer prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Oropharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q113",
+    "original_q": "What is the clinical presentation of a solitary fibrous tumor (SFT) in the head and neck?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Clinical presentation of a solitary fibrous tumor (SFT) in the head and neck",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q114",
+    "original_q": "What kind of diet is associated with an increased risk of colorectal cancer?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "What kind of diet is associated with an increased risk of colorectal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q115",
+    "original_q": "In pediatric germ-cell tumors, why are ovarian biopsies generally contraindicated?",
+    "gold_category": "treatment",
+    "pred_category": "investigation",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "In pediatric germ-cell tumors, why are ovarian biopsies generally contraindicated",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q116",
+    "original_q": "Which cancer types most commonly metastasize to the brain?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": "Central Nervous System (Brain) Tumor",
+    "normalized": "Cancer types most commonly metastasize to the brain",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Central Nervous System (Brain) Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q117",
+    "original_q": "What defines a 'sporadic' cancer?",
+    "gold_category": "mechanism",
+    "pred_category": "mechanism",
+    "cancer_type": null,
+    "normalized": "What defines a 'sporadic' cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q118",
+    "original_q": "What imaging study is most appropriate for assessing local tumor extent and depth of invasion in rectal cancer?",
+    "gold_category": "investigation",
+    "pred_category": "staging",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "What imaging study is most appropriate for assessing local tumor extent and depth of invasion in rectal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q119",
+    "original_q": "How do alkylating agents contribute to carcinogenesis?",
+    "gold_category": "mechanism",
+    "pred_category": "mechanism",
+    "cancer_type": null,
+    "normalized": "Alkylating agents contribute to carcinogenesis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q120",
+    "original_q": "What is the role of sentinel lymph node biopsy in breast cancer management?",
+    "gold_category": "treatment",
+    "pred_category": "staging",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Role of sentinel lymph node biopsy in breast cancer management",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q121",
+    "original_q": "What is the most common presenting sign of newly diagnosed breast cancer?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Most common presenting sign of newly diagnosed breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q122",
+    "original_q": "How is Lobular Carcinoma In Situ (LCIS) defined pathologically?",
+    "gold_category": "pathology",
+    "pred_category": "pathology",
+    "cancer_type": null,
+    "normalized": "Lobular Carcinoma In Situ (LCIS) defined pathologically",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q123",
+    "original_q": "What are the three categories of endocrine responsiveness in early breast cancer?",
+    "gold_category": "biomarker",
+    "pred_category": "general",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Three categories of endocrine responsiveness in early breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q124",
+    "original_q": "For recurrent or metastatic breast cancer patients who have failed anthracycline-based therapies, which drug class is typically preferred?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "For recurrent or metastatic breast cancer patients who have failed anthracycline-based therapies, which drug class is typically preferred",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Recurrent",
+        "Metastatic"
+      ],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q125",
+    "original_q": "What is the approximate male-to-female incidence ratio for head and neck cancers?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Head and Neck Cancer",
+    "normalized": "Approximate male-to-female incidence ratio for head and neck cancers",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Head and Neck Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q126",
+    "original_q": "In countries like India, what is the primary risk factor for developing oral cavity cancer?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Oral Cavity Cancer",
+    "normalized": "In countries like India, what is the primary risk factor for developing oral cavity cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Oral Cavity Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q127",
+    "original_q": "How do immune checkpoint molecules influence the tumor microenvironment?",
+    "gold_category": "mechanism",
+    "pred_category": "mechanism",
+    "cancer_type": null,
+    "normalized": "Immune checkpoint molecules influence the tumor microenvironment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q128",
+    "original_q": "What are some significant adverse events associated with non-specific immunostimulation therapies?",
+    "gold_category": "side_effects",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Some significant adverse events associated with non-specific immunostimulation therapies",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q129",
+    "original_q": "What is the lifetime risk of developing ovarian cancer for carriers of BRCA mutations?",
+    "gold_category": "epidemiology",
+    "pred_category": "biomarker",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "Lifetime risk of developing ovarian cancer for carriers of BRCA mutations",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "BRCA"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q130",
+    "original_q": "What is the mechanism of action of PARP inhibitors in treating BRCA-mutated ovarian cancer?",
+    "gold_category": "mechanism",
+    "pred_category": "treatment",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "Mechanism of action of PARP inhibitors in treating BRCA-mutated ovarian cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "BRCA"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q131",
+    "original_q": "Why is upfront surgical resection recommended for Wilms tumor in pediatric patients less than 6 months of age?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Wilms Tumor (Nephroblastoma)",
+    "normalized": "Upfront surgical resection recommended for Wilms tumor in pediatric patients less than 6 months of age",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Wilms Tumor (Nephroblastoma)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q132",
+    "original_q": "Which stages and genetic markers define high-risk neuroblastoma in patients over 18 months (547 days) of age?",
+    "gold_category": "staging",
+    "pred_category": "biomarker",
+    "cancer_type": "Neuroblastoma",
+    "normalized": "Stages and genetic markers define high-risk neuroblastoma in patients over 18 months (547 days) of age",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Neuroblastoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q133",
+    "original_q": "Why do patients with gastric adenocarcinoma often present with a poor prognosis?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Gastric (Stomach) Cancer",
+    "normalized": "Patients with gastric adenocarcinoma often present with a poor prognosis",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Gastric (Stomach) Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q134",
+    "original_q": "What is the purpose of consolidating therapy with radiation in oncology?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Purpose of consolidating therapy with radiation in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q135",
+    "original_q": "Which cranial nerve is typically the first to be affected by nasopharyngeal carcinoma spreading to the cavernous sinus?",
+    "gold_category": "diagnosis",
+    "pred_category": "general",
+    "cancer_type": "Nasopharyngeal Cancer",
+    "normalized": "Cranial nerve is typically the first to be affected by nasopharyngeal carcinoma spreading to the cavernous sinus",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Cavernous Sinus"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Nasopharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q136",
+    "original_q": "What is the World Health Organization's specific target incidence rate for eliminating cervical cancer?",
+    "gold_category": "epidemiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "World Health Organization's specific target incidence rate for eliminating cervical cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q137",
+    "original_q": "What is the projected global increase in patients requiring first-course chemotherapy between 2018 and 2040?",
+    "gold_category": "epidemiology",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Projected global increase in patients requiring first-course chemotherapy between 2018 and 2040",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q138",
+    "original_q": "What proportion of the population in lower- and middle-income countries (LMICs) lacks access to safe and affordable cancer surgery?",
+    "gold_category": "epidemiology",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "What proportion of the population in lower- and middle-income countries (LMICs) lacks access to safe and affordable cancer surgery",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q139",
+    "original_q": "What second-line targeted therapies may be considered for NSCLC patients who progress after first-line treatment?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Non-Small Cell Lung Cancer",
+    "normalized": "What second-line targeted therapies may be considered for NSCLC patients who progress after first-line treatment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Non-Small Cell Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q140",
+    "original_q": "What viral infection is strongly associated with the development of nasopharyngeal carcinoma?",
+    "gold_category": "epidemiology",
+    "pred_category": "general",
+    "cancer_type": "Nasopharyngeal Cancer",
+    "normalized": "What viral infection is strongly associated with the development of nasopharyngeal carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Nasopharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q141",
+    "original_q": "In cases of Metastasis of Unknown Origin (MUO), how often does a postmortem examination fail to identify the primary tumor?",
+    "gold_category": "investigation",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "In cases of Metastasis of Unknown Origin (MUO), how often does a postmortem examination fail to identify the primary tumor",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q142",
+    "original_q": "What is the standard preferred therapy for most women with operable breast cancer to preserve the breast?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Standard preferred therapy for most women with operable breast cancer to preserve the breast",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q143",
+    "original_q": "What is the recommended treatment for elderly patients with advanced diffuse large B-cell lymphoma (DLBCL)?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Lymphoma",
+    "normalized": "Recommended treatment for elderly patients with advanced diffuse large B-cell lymphoma (DLBCL)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Lymphoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q144",
+    "original_q": "What characteristic genetic fusion is present in Chronic Myelogenous Leukemia (CML)?",
+    "gold_category": "biomarker",
+    "pred_category": "diagnosis",
+    "cancer_type": "Leukemia",
+    "normalized": "What characteristic genetic fusion is present in Chronic Myelogenous Leukemia (CML)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Leukemia"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q145",
+    "original_q": "According to the CSCO guidelines, which breast cancer patients should be considered for preoperative neoadjuvant treatment?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Which breast cancer patients should be considered for preoperative neoadjuvant treatment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q146",
+    "original_q": "Why do tumors with high frequencies of somatic mutations respond better to immune checkpoint inhibitors?",
+    "gold_category": "mechanism",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "Tumors with high frequencies of somatic mutations respond better to immune checkpoint inhibitors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q147",
+    "original_q": "What long-term complication affects approximately half of pediatric patients treated for salivary gland tumors?",
+    "gold_category": "side_effects",
+    "pred_category": "treatment",
+    "cancer_type": "Salivary Gland Cancer",
+    "normalized": "What long-term complication affects approximately half of pediatric patients treated for salivary gland tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Salivary Gland Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q148",
+    "original_q": "What objective response rate was achieved with the combination of nivolumab and ipilimumab in the phase III CheckMate 067 trial for metastatic melanoma?",
+    "gold_category": "prognosis",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "What objective response rate was achieved with the combination of nivolumab and ipilimumab in the phase III CheckMate 067 trial for metastatic melanoma?",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": true
+  },
+  {
+    "id": "Q149",
+    "original_q": "In front-line therapy for NSCLC, what does high PD-L1 expression (>=50%) on tumor cells predict?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Non-Small Cell Lung Cancer",
+    "normalized": "In front-line therapy for NSCLC, what does high PD-L1 expression (>=50%) on tumor cells predict",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "PD-L1"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Non-Small Cell Lung Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q150",
+    "original_q": "What is a Level I radiotherapy recommendation for a breast cancer patient presenting with diffuse brain metastases?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "A Level I radiotherapy recommendation for a breast cancer patient presenting with diffuse brain metastases",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q151",
+    "original_q": "Which FDA-approved immune checkpoint inhibitor targets mismatch repair-deficient (dMMR) or MSI-H refractory solid tumors agnostically?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Immune checkpoint inhibitor targets mismatch repair-deficient (dMMR) or MSI-H refractory solid tumors agnostically",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "DMMR",
+        "MSI-H"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q152",
+    "original_q": "How does the NCCN define an Adolescent and Young Adult (AYA) cancer patient?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "The NCCN define an Adolescent and Young Adult (AYA) cancer patient",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q153",
+    "original_q": "What are the common late effects of radiation therapy applied to the thyroid gland?",
+    "gold_category": "side_effects",
+    "pred_category": "treatment",
+    "cancer_type": "Thyroid Cancer",
+    "normalized": "Common late effects of radiation therapy applied to the thyroid gland",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Thyroid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Thyroid Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q154",
+    "original_q": "Adolescent and Young Adult (AYA) patients with germline TP53 mutations (Li-Fraumeni syndrome) are at high risk of developing which bone and soft tissue malignancies?",
+    "gold_category": "epidemiology",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "Adolescent and Young Adult (AYA) patients with germline TP53 mutations (Li-Fraumeni syndrome) are at high risk of developing which bone and soft tissue malignancies",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "TP53"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q155",
+    "original_q": "What tumor markers should be checked quarterly during the first year of follow-up after radical therapy for colorectal cancer?",
+    "gold_category": "investigation",
+    "pred_category": "biomarker",
+    "cancer_type": "Colorectal Cancer",
+    "normalized": "What tumor markers should be checked quarterly during the first year of follow-up after radical therapy for colorectal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Colorectal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q156",
+    "original_q": "In the management of prostate cancer, when is the 'watchful waiting' approach utilized?",
+    "gold_category": "treatment",
+    "pred_category": "general",
+    "cancer_type": "Prostate Cancer",
+    "normalized": "In the management of prostate cancer, when is the 'watchful waiting' approach utilized",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Prostate Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q157",
+    "original_q": "Why do adolescents and young adults with Acute Lymphoblastic Leukemia (ALL) treated on pediatric protocols often show better survival than those on adult protocols?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Leukemia",
+    "normalized": "Adolescents and young adults with Acute Lymphoblastic Leukemia (ALL) treated on pediatric protocols often show better survival than those on adult protocols",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Leukemia"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q158",
+    "original_q": "According to the Reese-Ellsworth staging system for retinoblastoma, what features define Group I?",
+    "gold_category": "staging",
+    "pred_category": "staging",
+    "cancer_type": "Retinoblastoma",
+    "normalized": "According to the Reese-Ellsworth staging system for retinoblastoma, what features define Group I",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Group I"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Retinoblastoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q159",
+    "original_q": "Why is a biopsy generally avoided when evaluating a patient for suspected retinoblastoma?",
+    "gold_category": "investigation",
+    "pred_category": "investigation",
+    "cancer_type": "Retinoblastoma",
+    "normalized": "A biopsy generally avoided when evaluating a patient for suspected retinoblastoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Retinoblastoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q160",
+    "original_q": "What radiotherapy techniques are preferred for delivering Accelerated Partial Breast Irradiation (APBI)?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "What radiotherapy techniques are preferred for delivering Accelerated Partial Breast Irradiation (APBI)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q161",
+    "original_q": "What are the characteristics of an ideal maintenance chemotherapy protocol for advanced breast cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "Characteristics of an ideal maintenance chemotherapy protocol for advanced breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q162",
+    "original_q": "When is it safe to administer adjuvant chemotherapy to a pregnant patient diagnosed with breast cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "It safe to administer adjuvant chemotherapy to a pregnant patient diagnosed with breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q163",
+    "original_q": "What is the purpose of ASCO's Global Guidelines (formerly Resource-Stratified Guidelines)?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Purpose of ASCO's Global Guidelines (formerly Resource-Stratified Guidelines)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q164",
+    "original_q": "In ER-positive, HER2-negative breast cancer, what does a 21-gene recurrence score (RS) of 31 or greater indicate?",
+    "gold_category": "prognosis",
+    "pred_category": "biomarker",
+    "cancer_type": "Breast Cancer",
+    "normalized": "In ER-positive, HER2-negative breast cancer, what does a 21-gene recurrence score (RS) of 31 or greater indicate",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "HER2",
+        "ER"
+      ],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q165",
+    "original_q": "What does Adoptive T Cell Therapy (ACT) using Tumor Infiltrating Lymphocytes (TILs) entail?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "Adoptive T Cell Therapy (ACT) using Tumor Infiltrating Lymphocytes (TILs) entail",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q166",
+    "original_q": "How do active cancer vaccines aim to alter the tumor microenvironment?",
+    "gold_category": "mechanism",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Active cancer vaccines aim to alter the tumor microenvironment",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q167",
+    "original_q": "What is the mechanism of tremelimumab in the treatment of hepatocellular carcinoma?",
+    "gold_category": "mechanism",
+    "pred_category": "treatment",
+    "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)",
+    "normalized": "Mechanism of tremelimumab in the treatment of hepatocellular carcinoma",
+    "entities": {
+      "drugs": [
+        "Tremelimumab"
+      ],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q168",
+    "original_q": "Why is the use of PD-1/PD-L1 inhibitors rationalized in the treatment of Merkel cell carcinoma (MCC)?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Merkel Cell Carcinoma",
+    "normalized": "The use of PD-1/PD-L1 inhibitors rationalized in the treatment of Merkel cell carcinoma (MCC)",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "PD-L1"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Merkel Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q169",
+    "original_q": "What are the common clinical presentations of a patient with a paranasal sinus tumor?",
+    "gold_category": "clinical_features",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Common clinical presentations of a patient with a paranasal sinus tumor",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q170",
+    "original_q": "Which specific virus is fundamentally responsible for driving a high fraction of oropharyngeal squamous cell carcinomas?",
+    "gold_category": "etiology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Oropharyngeal Cancer",
+    "normalized": "Virus is fundamentally responsible for driving a high fraction of oropharyngeal squamous cell carcinomas",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Oropharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q171",
+    "original_q": "How does human papillomavirus (HPV) infection status influence survival outcomes in oropharyngeal cancer?",
+    "gold_category": "prognosis",
+    "pred_category": "prognosis",
+    "cancer_type": "Oropharyngeal Cancer",
+    "normalized": "Human papillomavirus (HPV) infection status influence survival outcomes in oropharyngeal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Oropharyngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q172",
+    "original_q": "What distinguishes malignant melanoma from sebaceous adenocarcinoma in the parotid gland on immunohistochemistry?",
+    "gold_category": "pathology",
+    "pred_category": "diagnosis",
+    "cancer_type": "Malignant Melanoma",
+    "normalized": "What distinguishes malignant melanoma from sebaceous adenocarcinoma in the parotid gland on immunohistochemistry",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Parotid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Malignant Melanoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q173",
+    "original_q": "What is the typical presentation of early glottic (true vocal fold) laryngeal cancer?",
+    "gold_category": "clinical_features",
+    "pred_category": "diagnosis",
+    "cancer_type": "Laryngeal Cancer",
+    "normalized": "Typical presentation of early glottic (true vocal fold) laryngeal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Laryngeal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q174",
+    "original_q": "What is the primary treatment approach for Ewing's sarcoma of the pelvic bone?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Sarcoma (Soft Tissue & Bone)",
+    "normalized": "Primary treatment approach for Ewing's sarcoma of the pelvic bone",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Pelvic"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Sarcoma (Soft Tissue & Bone)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q175",
+    "original_q": "What are the essential diagnostic criteria for non-keratinizing squamous cell carcinoma of the sinonasal tract?",
+    "gold_category": "diagnosis",
+    "pred_category": "diagnosis",
+    "cancer_type": "Squamous Cell Carcinoma",
+    "normalized": "Essential diagnostic criteria for non-keratinizing squamous cell carcinoma of the sinonasal tract",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Squamous Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q176",
+    "original_q": "According to Indian national guidelines, what pathological findings mandate the use of post-mastectomy radiation in breast cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "What pathological findings mandate the use of post-mastectomy radiation in breast cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q177",
+    "original_q": "Which combination of immunotherapy drugs is the standard first-line treatment for intermediate- and poor-prognosis metastatic clear cell renal cell carcinoma?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Renal Cell Carcinoma",
+    "normalized": "Combination of immunotherapy drugs is the standard first-line treatment for intermediate- and poor-prognosis metastatic clear cell renal cell carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Metastatic"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Renal Cell Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q178",
+    "original_q": "In urothelial carcinoma, what is a primary limitation for standard systemic chemotherapy?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Urothelial Carcinoma",
+    "normalized": "In urothelial carcinoma, what is a primary limitation for standard systemic chemotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Urothelial Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q179",
+    "original_q": "In the liver tumor microenvironment, what factors drive immune escape in hepatocellular carcinoma?",
+    "gold_category": "mechanism",
+    "pred_category": "general",
+    "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)",
+    "normalized": "In the liver tumor microenvironment, what factors drive immune escape in hepatocellular carcinoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Liver Cancer (Hepatocellular Carcinoma)"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q180",
+    "original_q": "What is the treatment of choice for Stage I (T1N0M0) esophageal cancer?",
+    "gold_category": "treatment",
+    "pred_category": "staging",
+    "cancer_type": "Esophageal Cancer",
+    "normalized": "Treatment of choice for Stage I (T1N0M0) esophageal cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Stage I",
+        "T1N0M0"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Esophageal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q181",
+    "original_q": "What are the common chemotherapy agents used concurrently with radiation in the definitive treatment of unresectable esophageal tumors?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Esophageal Cancer",
+    "normalized": "Common chemotherapy agents used concurrently with radiation in the definitive treatment of unresectable esophageal tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Esophageal Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q182",
+    "original_q": "What organs are considered critical structures that limit the dose of radiotherapy for pelvic tumors like cervical cancer?",
+    "gold_category": "side_effects",
+    "pred_category": "treatment",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "What organs are considered critical structures that limit the dose of radiotherapy for pelvic tumors like cervical cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Pelvic"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q183",
+    "original_q": "When is adjuvant radiotherapy indicated for well-differentiated thyroid cancer?",
+    "gold_category": "treatment",
+    "pred_category": "treatment",
+    "cancer_type": "Thyroid Cancer",
+    "normalized": "Adjuvant radiotherapy indicated for well-differentiated thyroid cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Thyroid"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Thyroid Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q184",
+    "original_q": "How is an adequate margin typically defined in breast-conserving surgery?",
+    "gold_category": "surgery",
+    "pred_category": "treatment",
+    "cancer_type": "Breast Cancer",
+    "normalized": "An adequate margin typically defined in breast-conserving surgery",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q185",
+    "original_q": "What is the definition and goal of palliative care in oncology?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "Definition and goal of palliative care in oncology",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q186",
+    "original_q": "During a psycho-oncological assessment for a child with cancer, what is the primary goal of the investigative phase?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "During a psycho-oncological assessment for a child with cancer, what is the primary goal of the investigative phase",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q187",
+    "original_q": "What is the recommended systemic therapy for patients with Stage IVB (distant metastatic) cervical cancer?",
+    "gold_category": "treatment",
+    "pred_category": "staging",
+    "cancer_type": "Cervical Cancer",
+    "normalized": "Recommended systemic therapy for patients with Stage IVB (distant metastatic) cervical cancer",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [
+        "Stage Ivb",
+        "Metastatic"
+      ],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Cervical Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q188",
+    "original_q": "What is a cornerstone of management for pediatric patients diagnosed with familial polyposis syndromes?",
+    "gold_category": "treatment",
+    "pred_category": "diagnosis",
+    "cancer_type": null,
+    "normalized": "A cornerstone of management for pediatric patients diagnosed with familial polyposis syndromes",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q189",
+    "original_q": "What serum markers are monitored in pediatric ovarian germ cell tumors?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Ovarian Cancer",
+    "normalized": "What serum markers are monitored in pediatric ovarian germ cell tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Ovarian Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q190",
+    "original_q": "Pediatric adrenocortical tumors are frequently associated with which familial cancer predisposition syndrome?",
+    "gold_category": "etiology",
+    "pred_category": "general",
+    "cancer_type": "Adrenocortical Carcinoma",
+    "normalized": "Pediatric adrenocortical tumors are frequently associated with which familial cancer predisposition syndrome",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Adrenocortical Carcinoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q191",
+    "original_q": "How can clinicians monitor antigen-specific T cell activity in patients undergoing immunotherapy?",
+    "gold_category": "investigation",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "How can clinicians monitor antigen-specific T cell activity in patients undergoing immunotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q192",
+    "original_q": "How does the gut microbiota influence systemic cancer immunotherapy?",
+    "gold_category": "mechanism",
+    "pred_category": "treatment",
+    "cancer_type": null,
+    "normalized": "The gut microbiota influence systemic cancer immunotherapy",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q193",
+    "original_q": "What direct impact does targeting the MAPK pathway (e.g., using BRAF inhibitors) have on the immune system in melanoma?",
+    "gold_category": "mechanism",
+    "pred_category": "treatment",
+    "cancer_type": "Malignant Melanoma",
+    "normalized": "What direct impact does targeting the MAPK pathway (e.g., using BRAF inhibitors) have on the immune system in melanoma",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "BRAF"
+      ],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Malignant Melanoma"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q194",
+    "original_q": "What are the recommended screening tests for prostate cancer in men over 50 years of age?",
+    "gold_category": "investigation",
+    "pred_category": "investigation",
+    "cancer_type": "Prostate Cancer",
+    "normalized": "Recommended screening tests for prostate cancer in men over 50 years of age",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Prostate Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q195",
+    "original_q": "How does the WHO classify tumors of the central nervous system (CNS) based on growth rate and aggressiveness?",
+    "gold_category": "pathology",
+    "pred_category": "epidemiology",
+    "cancer_type": "Central Nervous System (Brain) Tumor",
+    "normalized": "The WHO classify tumors of the central nervous system (CNS) based on growth rate and aggressiveness",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {
+      "cancer_type": "Central Nervous System (Brain) Tumor"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q196",
+    "original_q": "When diagnosing operable breast cancer, why is the evaluation of ER, PR, and HER2/neu status essential?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": "Breast Cancer",
+    "normalized": "When diagnosing operable breast cancer, why is the evaluation of ER, PR, and HER2/neu status essential",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [
+        "HER2",
+        "Her2/Neu",
+        "ER",
+        "PR"
+      ],
+      "stages": [],
+      "anatomical_sites": [
+        "Breast"
+      ]
+    },
+    "filters": {
+      "cancer_type": "Breast Cancer"
+    },
+    "clarification": false
+  },
+  {
+    "id": "Q197",
+    "original_q": "Why is it important to assess serum tumor marker decline during chemotherapy for non-seminomatous germ cell tumors?",
+    "gold_category": "biomarker",
+    "pred_category": "biomarker",
+    "cancer_type": null,
+    "normalized": "It important to assess serum tumor marker decline during chemotherapy for non-seminomatous germ cell tumors",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q198",
+    "original_q": "What is an advance directive in the context of end-of-life planning for cancer patients?",
+    "gold_category": "general",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "An advance directive in the context of end-of-life planning for cancer patients",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q199",
+    "original_q": "If a cancer patient is experiencing distress, what specific symptom might they ask their doctor to evaluate to determine if it is purely distress-related?",
+    "gold_category": "general",
+    "pred_category": "diagnosis",
+    "cancer_type": null,
+    "normalized": "If a cancer patient is experiencing distress, what specific symptom might they ask their doctor to evaluate to determine if it is purely distress-related",
+    "entities": {
+      "drugs": [],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  },
+  {
+    "id": "Q200",
+    "original_q": "What accelerated approval did the FDA grant for sacituzumab govitecan in April 2020?",
+    "gold_category": "treatment",
+    "pred_category": "general",
+    "cancer_type": null,
+    "normalized": "What accelerated approval did the FDA grant for sacituzumab govitecan in April 2020",
+    "entities": {
+      "drugs": [
+        "Sacituzumab Govitecan"
+      ],
+      "biomarkers_genes": [],
+      "stages": [],
+      "anatomical_sites": []
+    },
+    "filters": {},
+    "clarification": false
+  }
+]
